@@ -19,10 +19,10 @@ A simple script to fetch and analyze recent **ranked League of Legends match sta
 - Python 3.?
 - Riot Games API Key ([Get one here](https://developer.riotgames.com/))
 
-## 📥 Installation & Run (Windows)
+## 📥 One Liner Installation & Run (Windows)
 
 ```bash
-pip install -r requirements.txt && python main.py
+git clone https://github.com/Terevenen2/LeagueOfSheetsStats && cd LeagueOfSheetsStats && pip install -r requirements.txt && python main.py
 ```
 
 Just paste it into Google Sheets or Excel — calculated fields are ready!
